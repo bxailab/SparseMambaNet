@@ -13,7 +13,7 @@ This repository contains the code for the offline implementation of the EEG-base
 
 ## Installation
 
-* **Python environment:** Set up a new conda environment `b2voice` using the provided `requirements.yml` as follows:
+* **Python environment:** Set up a new venv environment using the provided `requirements.txt` as follows:
 
 ```
 pip install -r requirments.txt
