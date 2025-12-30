@@ -3,8 +3,8 @@
 <img width="1179" height="649" alt="Overall pipeline of Lie Detection" src="https://github.com/user-attachments/assets/56301ad8-adf6-442f-9a28-4c800b559f09" />
 
 Hanbeot Park†1, Yunjeong Cho†1, Hunhee Kim*    
-- * Correspondence
-- † These authors contributed equally to this work.
+** Correspondence*
+*† These authors contributed equally to this work.*
 
 ## Overview
 
