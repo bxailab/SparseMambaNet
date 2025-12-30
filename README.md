@@ -22,7 +22,7 @@ This will install all the required Python packages to run this code (installatio
 * **System requirements:** This code runs on a GPU for optimal performance. It has been tested on Linux (22.04 LTS) with RTX 4090 GPU. 
 
 ## Data
-
+The EEG dataset is not publicly available due to privacy concerns.
 
 ## Demo for detect lie
 
