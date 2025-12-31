@@ -5,7 +5,7 @@
 ### SparseMambaNet: A Novel Architecture Integrating Bi-Mamba and Mixture of Experts for Efficient EEG-Based Lie Detection
 Hanbeot Park†1, Yunjeong Cho†1, Hunhee Kim*    
 **Correspondence*
-*†These authors contributed equally to this work.*
+†These authors contributed equally to this work.
 
 ## Overview
 
